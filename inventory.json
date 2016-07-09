@@ -1,0 +1,94 @@
+{
+	"items": [
+		{
+			"id": "1",
+			"name": "Paper Towels",
+			"description": "Super absorbent to take on spills, general cleaning, and... whatever else! Why messy up a towel when it's paper time, baby!",
+			"msrp": "19.99",
+			"price": "14.99",
+			"is_on_sale": "0", 
+			"quantity_in_stock": "17"
+		},
+		{
+			"id": "2",
+			"name": "Cheerios",
+			"description": "This classic barely needs an introduction... a delicious, nutritious, and perfect start to your day. Taste the O's! Better with milk!",
+			"msrp": "4.49",
+			"price": "3.99", 
+			"is_on_sale": "0",
+			"quantity_in_stock": "30"
+		},
+		{
+			"id": "3",
+			"name": "Toothpaste",
+			"description": "Extra whitening foam action for your teeth! Make them white, make them shine. But most of all... keep 'em clean!",
+			"msrp": "6.99",
+			"price": "5.99",
+			"is_on_sale": "1",
+			"quantity_in_stock": "2"
+		},
+		{
+			"id": "4",
+			"name": "Soap",
+			"description": "It cleans things that are dirty.",
+			"msrp": "3.99",
+			"price": "2.99",
+			"is_on_sale": "1",
+			"quantity_in_stock": "21"
+		},
+		{
+			"id": "5",
+			"name": "Shampoo",
+			"description": "Now can be used on hair!",
+			"msrp": "9.99",
+			"price": "7.99",
+			"is_on_sale": "0",
+			"quantity_in_stock": "0"
+		},
+		{
+			"id": "6",
+			"name": "Mystery Meat",
+			"description": "Is it beef? Is it pork? Chicken? Something else entirely?? It's a surprise! And always on sale for an unbeatable price.",
+			"msrp": "1.99",
+			"price": "2.99",
+			"is_on_sale": "1", 
+			"quantity_in_stock": "20"
+		},
+		{
+			"id": "7",
+			"name": "Spice Pack",
+			"description": "Perfect for making food taste better. We know you can't do it on your own.",
+			"msrp": "4.99",
+			"price": "5.99",
+			"is_on_sale": "0", 
+			"quantity_in_stock": "12"
+		},
+		{
+			"id": "8",
+			"name": "Pet Food",
+			"description": "Have an animal friend that needs to eat? Look no further!",
+			"msrp": "4.99",
+			"price": "5.99",
+			"is_on_sale": "0", 
+			"quantity_in_stock": "12"
+		},
+		{
+			"id": "9",
+			"name": "Chocolate Cake",
+			"description": "Dessert is served!",
+			"msrp": "12.99",
+			"price": "10.99",
+			"is_on_sale": "0", 
+			"quantity_in_stock": "12"
+		},
+		{
+			"id": "10",
+			"name": "Doritos",
+			"description": "You're not going to eat potato chips, are you? When you need a salty, zesty and tasty snack, look no further. Stock up while you can!",
+			"msrp": "4.99",
+			"price": "3.50",
+			"is_on_sale": "1", 
+			"quantity_in_stock": "50"
+		}
+	]
+}
